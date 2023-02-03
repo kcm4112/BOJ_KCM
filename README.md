@@ -1,7 +1,17 @@
 # BOJ_KCM
 
+---
 
+# 나혼자하는 백준부수기..
 
-#2022년 7월 5일시작.
-#하루에 2문제씩 푸는 것을 목표로 함
-#문제 난이도는 실버 5이상.
+---
+
+## **📕 문제집**
+
+<details>
+<summary>펼쳐보세요🤖</summary>
+<br>
+  
+||날짜|알고리즘|출처|문제1|문제2|문제3|문제4|알고리즘설명|
+|--|--|--|--|--|--|--|--|--|
+|**01**|2023.02.02 ~ 03|구현|백준 |[로봇청소기](https://www.acmicpc.net/problem/14503)|[아기 상어](https://www.acmicpc.net/problem/16236)|[](https://www.acmicpc.net/problem/)|[](https://www.acmicpc.net/problem/)|
