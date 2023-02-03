@@ -14,4 +14,4 @@
   
 ||날짜|알고리즘|출처|문제1|문제2|문제3|문제4|알고리즘설명|
 |--|--|--|--|--|--|--|--|--|
-|**01**|2023.02.02 ~ 03|구현|백준 |[로봇청소기](https://www.acmicpc.net/problem/14503)|[아기 상어](https://www.acmicpc.net/problem/16236)|[](https://www.acmicpc.net/problem/)|[](https://www.acmicpc.net/problem/)|
+|**01**|2023.02.02 ~ 03|구현|백준 |[로봇청소기](https://www.acmicpc.net/problem/14503)|[아기 상어](https://www.acmicpc.net/problem/16236)|[뱀](https://www.acmicpc.net/problem/3190)|[](https://www.acmicpc.net/problem/)|
