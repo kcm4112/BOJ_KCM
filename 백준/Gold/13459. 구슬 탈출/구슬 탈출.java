@@ -45,7 +45,7 @@ public class Main {
         }
 
         //처음 dir로 -1을 넘겨주어 4방향에 대해 모두 탐색할 수 있도록 한다.
-        if(solve(-1, 0, red, blue)) {
+        if(solve(-1, 1, red, blue)) {
             System.out.println(1);
         }
         else {
@@ -54,7 +54,7 @@ public class Main {
 
     }
     public static boolean solve(int dir, int count, Point r, Point b) {
-        if(count == 10) {
+        if(count > 10) { //
             return false;
         }
         for(int d = 0; d<4; d++) {
