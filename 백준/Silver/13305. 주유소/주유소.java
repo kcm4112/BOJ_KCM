@@ -30,7 +30,7 @@ public class Main {
                 price[i+1] = price[i];
             }
         }
-        int answer = 0;
+        long answer = 0;
         for(int i=0; i<N-1; i++) {
             answer = answer + (price[i] * distance[i]);
         }
